@@ -1,7 +1,7 @@
 route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
 1,1,1,North Lamar/South Congress,,3,http://www.capmetro.org/current_schedules/pdf/001.pdf,004A97,FFFFFF
 2,1,2,Rosewood,,3,http://www.capmetro.org/current_schedules/pdf/002.pdf,004A97,FFFFFF
-3,1,3,Burnet/Manchaca,,3,http://www.capmetro.org/current_schedules/pdf/003.pdf,004A97,FFFFFF
+3,1,3,Burnet/Menchaca,,3,http://www.capmetro.org/current_schedules/pdf/003.pdf,004A97,FFFFFF
 4,1,4,7th Street,,3,http://www.capmetro.org/current_schedules/pdf/004.pdf,004A97,FFFFFF
 5,1,5,Woodrow/Lamar,,3,http://www.capmetro.org/current_schedules/pdf/005.pdf,004A97,FFFFFF
 6,1,6,East 12th,,3,http://www.capmetro.org/current_schedules/pdf/006.pdf,004A97,FFFFFF
@@ -19,7 +19,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 111,1,111,South Mopac Flyer,,3,http://www.capmetro.org/current_schedules/pdf/111.pdf,555555,FFFFFF
 135,1,135,Dell Limited,,3,http://www.capmetro.org/current_schedules/pdf/135.pdf,555555,FFFFFF
 142,1,142,Metric Flyer,,3,http://www.capmetro.org/current_schedules/pdf/142.pdf,555555,FFFFFF
-150,1,150,150 ROUND ROCK HOWARD LIMITED,,3,http://www.capmetro.org/current_schedules/pdf/150.pdf,555555,FFFFFF
+150,1,150,ROUND ROCK HOWARD LIMITED,,3,http://www.capmetro.org/current_schedules/pdf/150.pdf,555555,FFFFFF
 152,1,152,Round Rock Tech Ridge Limited,,3,http://www.capmetro.org/current_schedules/pdf/152.pdf,555555,FFFFFF
 171,1,171,Oak Hill Flyer,,3,http://www.capmetro.org/current_schedules/pdf/171.pdf,555555,FFFFFF
 201,1,201,Southpark Meadows,,3,http://www.capmetro.org/current_schedules/pdf/201.pdf,004A97,FFFFFF
@@ -40,7 +40,7 @@ route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_
 324,1,324,Georgian/Ohlen,,3,http://www.capmetro.org/current_schedules/pdf/324.pdf,004A97,FFFFFF
 325,1,325,Metric/Rundberg,,3,http://www.capmetro.org/current_schedules/pdf/325.pdf,004A97,FFFFFF
 333,1,333,William Cannon,,3,http://www.capmetro.org/current_schedules/pdf/333.pdf,004A97,FFFFFF
-335,1,335,335 35th/38th,,3,http://www.capmetro.org/current_schedules/pdf/335.pdf,004A97,FFFFFF
+335,1,335,35th/38th,,3,http://www.capmetro.org/current_schedules/pdf/335.pdf,004A97,FFFFFF
 337,1,337,Koenig/Colony Park,,3,http://www.capmetro.org/current_schedules/pdf/337.pdf,004A97,FFFFFF
 339,1,339,Tuscany,,3,http://www.capmetro.org/current_schedules/pdf/339.pdf,004A97,FFFFFF
 345,1,345,45th,,3,http://www.capmetro.org/current_schedules/pdf/345.pdf,004A97,FFFFFF

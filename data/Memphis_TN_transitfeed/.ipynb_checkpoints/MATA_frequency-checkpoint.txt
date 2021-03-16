@@ -1,4 +1,4 @@
-route_short_name,route_long_name,weekday_frequency
+route_short_name,route_long_name,avg_min_frequency
 1, UNION, 30
 2, MADISON, 60
 4, WALKER, 60

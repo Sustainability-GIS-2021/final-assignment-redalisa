@@ -1,0 +1,71 @@
+route_short_name,route_long_name,avg_min_frequency
+1,North Lamar/South Congress,25
+2,Rosewood,15
+3,Burnet/Menchana,30
+4,7th Street,15
+5,Woodrow/Lamar,30
+6,East 12th,30
+7,Duval/Dove Springs,10
+10,South 1st/Red River,12
+17,Cesar Chavez,15
+18,Martin Luther King,15
+19,Bull Creek,45
+20,Manor Rd/Riverside,12
+30,Barton Creek Sq,35 
+50,Round Rock Howard Station,60
+51,Round Rock Circulator,60
+103,Manchaca Flyer,720
+105,South 5th Flyer,720
+111,South Mopac Flyer,720
+135,Dell Limited,720
+142,Metric Flyer,720
+150,ROUND ROCK HOWARD LIMITED,60
+152,Round Rock Tech Ridge Limited,720
+171,Oak Hill Flyer,720
+201,Southpark Meadows,30
+214,Northwest Feeder,50
+217,Montopolis Feeder,15
+228,VA Clinic,30
+233,Decker/Daffan Ln,60
+237,Northeast Feeder,60
+243,Wells Branch,45
+271,Del Valle,30
+300,Springdale/Oltorf,10
+310,Parker/Wickersham,30
+311,Stassney,15
+315,Ben White,30
+318,Westgate/Slaughter,30
+322,Chicon/Cherrywood,30
+323,Anderson,30
+324,Georgian/Ohlen,30
+325,Metric/Rundberg,15
+333,William Cannon,15
+335,35th/38th,15
+337,Koenig/Colony Park,20
+339,Tuscany,60
+345,45th,30
+350,Airport Blvd,30
+383,Research,30
+392,Braker,45
+465,MLK/University of Texas,35
+466,Kramer/Domain,35
+490,HEB Shuttle,35
+491,Allandale,60
+492,Delwood,60
+493,Eastview,60
+550,Metro Rail Red Line,50
+640,Forty Acres,15
+641,East Campus,12
+642,West Campus/UT,17
+656,Intramural Fields/UT,13
+661,Far West/UT,13
+663,Lake Austin/UT,15
+670,Crossing Place,10
+671,North Riverside,16
+672,Lakeshore,16
+801,N Lamar S Congress,10
+803,Burnet/S Lamar,10
+935,Tech Ridge Express,45
+982,Pavilion Express,30
+985,Leander/Lakeline Direct,30
+990,Manor/Elgin Express,720
